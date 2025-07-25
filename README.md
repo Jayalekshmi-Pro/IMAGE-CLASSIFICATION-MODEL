@@ -68,3 +68,5 @@ A brief documentation/report describing the approach, architecture, and results
 
 OUTPUT :
 
+<img width="1132" height="283" alt="Image" src="https://github.com/user-attachments/assets/99d6ae0a-e93e-4a7a-868a-31b5d7f94039" />
+
